@@ -7,6 +7,10 @@ a.navbar-brand {
   word-break: break-all;
 }
 
+p{
+    font-size: 17px;
+    font-weight: bold;
+}
 
 .nav-pills {
     color: white;

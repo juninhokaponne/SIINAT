@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>SIINAT</AssemblyName>
+    <RootNamespace>SIINAT</RootNamespace>
   </PropertyGroup>
 
 </Project>
